@@ -44,6 +44,17 @@
 
 ---
 
+### :envelope_with_arrow: My contacts :
+
+  <a href="https://web.telegram.org/k/#@KirillLyashenko">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:kirilllasenko6738@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tltelf&theme=dark&background=000000)](https://git.io/streak-stats)
